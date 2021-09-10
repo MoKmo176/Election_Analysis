@@ -3,7 +3,7 @@
 ## Overview of Election Analysis
 
 ### Purpose
-This analysis is to use Python programming to determine significant metrics from the Election. The dataset identifies Voter ID, County, and Candidate Vote Counts. This data is recalled in a Python script to return quantitative values: # of Total Votes, # votes by County, largest County  Turnout, Total Candidate votes and percentages, and the Winning candidate counts. Furthermore, we use For and If And iterations to count the specific Candidate votes for the overall and County total vote counts. 
+This analysis applies Python programming to determine significant metrics from the Election. The dataset identifies Voter ID, County, and Candidate Vote Counts. This data is recalled in a Python script to return quantitative values: # of Total Votes, # votes by County, largest County  Turnout, Total Candidate votes and percentages, and the Winning candidate counts. Furthermore, we use For and If And iterations to count the specific Candidate votes for the overall and County total vote counts. 
 
 ## Election Audit Results
 
